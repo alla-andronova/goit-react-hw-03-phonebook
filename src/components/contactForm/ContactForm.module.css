@@ -1,0 +1,32 @@
+.form {
+  display: flex;
+  flex-direction: column;
+
+  width: 500px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+.input {
+  margin-top: 15px;
+  border: none;
+  border-bottom: 2px solid lightcoral;
+  outline: none;
+}
+.btn {
+  width: 25%;
+  margin: 0 auto;
+  border-radius: 30px;
+  cursor: pointer;
+  border: none;
+  padding: 5px;
+
+  background-color: lightcoral;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+}

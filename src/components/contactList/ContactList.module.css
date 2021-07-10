@@ -1,0 +1,19 @@
+.list {
+  list-style: none;
+  width: 500px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.item {
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  cursor: pointer;
+
+  border: none;
+  background-color: white;
+}
